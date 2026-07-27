@@ -10,7 +10,7 @@ cssclasses: center-images
 ---
 O EUF costuma cobrar, no contexto de função de ondas, apenas os operadores básicos em sua representação no espaço das posições e sempre no caso unidimensional. Todos constam no [[Formulário fornecido pelo EUF.pdf]]
 1. Operador de posição $x = x$
-2. Operador de momento $p_{x} = -i\hbar \partial_{x}$
+2. Operador de momento $p_{x} = -i\hbar \partial_{x} \implies p_{x}^{2} = -\hbar^{2}\partial_{x}^{2}$
 3. Operador momento angular $L_{z} = -i\hbar \partial_{\phi}$
 4. Operador hamiltoniano $H = i \hbar \partial_{t}$
 
@@ -32,6 +32,19 @@ então $\psi(x,t)$ não é uma autofunção do momento, isto é, a medição de 
 
 # Valores médios
 ---
+**Def.:** Dada uma função de onda $\psi(x)$ e um observável $\hat{A}$, o valor médio (ou esperado) de $\hat{A}$ é dado por
+$$
+\langle \hat{A} \rangle = \int_{-\infty}^{\infty} \psi^{*}(x) \hat{A} \psi(x) dx
+$$
+
+**Ex.:** Calcule os valores médios de $x$, $x^{2}$, $p$ e $p^{2}$ para a solução $\psi(x) = \sqrt{ \frac{2}{L} } \cos\left( \frac{\pi}{L} x \right)$ de um poço infinito restrito a $-\frac{L}{2} < x < \frac{L}{2}$
+
+1. $\langle x \rangle \sim \int x \cos ^{2}$
+2. $\langle x^{2} \rangle \sim \int x^{2}\cos ^{2}$
+3. $\langle p \rangle \sim \int \sin \cos$
+4. $\langle p^{2} \rangle \sim \cos ^{2}$
+
+Note que essas integrais vão estar em intervalos simétricos e possuem paridades. 
 
 # vídeo aula
 ---
