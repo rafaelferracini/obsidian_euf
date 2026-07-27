@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Teoria/estados ligados.md",
+                "file": "04 - Teoria/coeficientes de reflexão e transmissão.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "estados ligados"
+              "title": "coeficientes de reflexão e transmissão"
             }
           }
         ]
@@ -199,12 +199,11 @@
   },
   "active": "1b188b91a0469a7f",
   "lastOpenFiles": [
-    "04 - Teoria/probabilidade de função de onda.md",
-    "04 - Teoria/estados ligados.md",
-    "04 - Teoria/coeficientes de reflexão e transmissão.md",
     "06 - Aulas/Mecânica Quântica/1 - Funções de Onda/1.6 Coeficientes de reflexão e transmissão.mp4",
+    "04 - Teoria/coeficientes de reflexão e transmissão.md",
     "04 - Teoria/solução do poço infinito.md",
     "06 - Aulas/Mecânica Quântica/1 - Funções de Onda/1.5 Poço infinito.mp4",
+    "04 - Teoria/probabilidade de função de onda.md",
     "06 - Aulas/Mecânica Quântica/1 - Funções de Onda/1.4 Cálculo de probabilidades.mp4",
     "06 - Aulas/Mecânica Quântica/1 - Funções de Onda/Sem título.md",
     "06 - Aulas/Mecânica Quântica/1 - Funções de Onda/1.3 Operadores básicos e valores médios.mp4",
