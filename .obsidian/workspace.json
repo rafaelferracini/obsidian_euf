@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "estados ligados"
             }
+          },
+          {
+            "id": "cce280e6731cc32b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a5898ab9e84bf2aa",
@@ -209,9 +224,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7f58a8b24fc7ccc3",
+  "active": "cce280e6731cc32b",
   "lastOpenFiles": [
+    "desktop.ini",
     "04 - Teoria/estados ligados.md",
+    "conflict-files-obsidian-git.md",
     "04 - Teoria/probabilidade de função de onda.md",
     "04 - Teoria/coeficientes de reflexão e transmissão.md",
     "06 - Aulas/Mecânica Quântica/1 - Funções de Onda/1.6 Coeficientes de reflexão e transmissão.mp4",
@@ -244,10 +261,7 @@
     "02 - Questões/funções trigonométricas hiperbólicas.md",
     "02 - Questões/equações de campo de Einstein expandida.md",
     "02 - Questões/como expandir imagem no photoshop sem distorcer o personagem.md",
-    "07 - Fleeting/livros para comprar.md",
-    "08 - Archive/Sexo.md",
     "03 - Resources/porta_logica_ghz.png",
-    "desktop.ini",
     "Pasted Image 20250829195026_488.png",
     "Pasted Image 20250829194916_727.png",
     "290820251845.svg",
