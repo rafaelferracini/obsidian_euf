@@ -11,30 +11,32 @@
             "id": "1b188b91a0469a7f",
             "type": "leaf",
             "state": {
-              "type": "video",
+              "type": "markdown",
               "state": {
-                "file": "06 - Aulas/Resolução EUF/2026-1/Mecânica Clássica.mp4"
+                "file": "04 - Teoria/coeficientes de reflexão e transmissão.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Mecânica Clássica"
+              "title": "coeficientes de reflexão e transmissão"
             }
           }
         ]
       },
       {
-        "id": "69571eed38ae2e9c",
+        "id": "a5898ab9e84bf2aa",
         "type": "tabs",
         "children": [
           {
-            "id": "1cc6d823241faa52",
+            "id": "f202814cab83785f",
             "type": "leaf",
             "state": {
               "type": "video",
               "state": {
-                "file": "06 - Aulas/Mecânica Quântica/1 - Funções de Onda/1.3 Operadores básicos e valores médios.mp4"
+                "file": "06 - Aulas/Mecânica Quântica/1 - Funções de Onda/1.6 Coeficientes de reflexão e transmissão.mp4"
               },
               "icon": "lucide-file",
-              "title": "1.3 Operadores básicos e valores médios"
+              "title": "1.6 Coeficientes de reflexão e transmissão"
             }
           }
         ]
@@ -183,6 +185,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -194,14 +197,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1b188b91a0469a7f",
+  "active": "f202814cab83785f",
   "lastOpenFiles": [
-    "04 - Teoria/operadores, autofunções e valores médios.md",
+    "04 - Teoria/coeficientes de reflexão e transmissão.md",
+    "06 - Aulas/Mecânica Quântica/1 - Funções de Onda/1.6 Coeficientes de reflexão e transmissão.mp4",
+    "04 - Teoria/solução do poço infinito.md",
+    "06 - Aulas/Mecânica Quântica/1 - Funções de Onda/1.5 Poço infinito.mp4",
+    "04 - Teoria/probabilidade de função de onda.md",
+    "06 - Aulas/Mecânica Quântica/1 - Funções de Onda/1.4 Cálculo de probabilidades.mp4",
+    "06 - Aulas/Mecânica Quântica/1 - Funções de Onda/Sem título.md",
     "06 - Aulas/Mecânica Quântica/1 - Funções de Onda/1.3 Operadores básicos e valores médios.mp4",
+    "04 - Teoria/operadores, autofunções e valores médios.md",
+    "04 - Teoria/normalização de função de onda.md",
+    "06 - Aulas/Eletromagnetismo/1 - Eletrostática/1.1 Campo eletrostático.mp4",
     "06 - Aulas/Mecânica Quântica/1 - Funções de Onda/1.2 Operadores básicos e autofunções.mp4",
     "06 - Aulas/Mecânica Quântica/1 - Funções de Onda/1.1 Normalização.mp4",
-    "04 - Teoria/normalização de função de onda.md",
-    "04 - Teoria/poço infinito.md",
     "02 - Questões/Mecânica Clássica/mcPT2a (2025).md",
     "02 - Questões/Mecânica Clássica/mcPT2b (2025).md",
     "02 - Questões/Mecânica Clássica/mcPT1a (2025).md",
@@ -223,15 +233,8 @@
     "02 - Questões/como expandir imagem no photoshop sem distorcer o personagem.md",
     "07 - Fleeting/livros para comprar.md",
     "08 - Archive/Sexo.md",
-    "290820251845.md",
     "03 - Resources/porta_logica_ghz.png",
     "desktop.ini",
-    "03 - Simulados/Physics/Relatividade Especial (Kneipp).md",
-    "02 - Questões/Mecânica Clássica",
-    "05 - PDF/2025-1.pdf",
-    "05- Literature/EUF/PDF/2025-1.pdf.opdownload",
-    "EUF/PDF",
-    "03 - Simulados/Physics/Física III (Uai Física).md",
     "Pasted Image 20250829195026_488.png",
     "Pasted Image 20250829194916_727.png",
     "290820251845.svg",
