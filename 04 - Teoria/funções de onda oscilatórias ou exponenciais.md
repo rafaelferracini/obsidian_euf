@@ -14,3 +14,7 @@ cssclasses: center-images
 
 ![[270720261225.svg]]
 %%[[270720261225.md|🖋 Edit in Excalidraw]]%%
+
+Em particular no caso de um poço de potencial teremos oscilação dentro do poço mas com soluções quantizadas
+![[270720261239.svg]]
+%%[[270720261239.md|🖋 Edit in Excalidraw]]%%
