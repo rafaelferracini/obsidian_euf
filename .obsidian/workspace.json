@@ -112,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "06 - Aulas/Mecânica Quântica/1 - Funções de Onda/1.6 Coeficientes de reflexão e transmissão.mp4",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para 1.6 Coeficientes de reflexão e transmissão"
             }
           },
           {
@@ -158,12 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "06 - Aulas/Mecânica Quântica/1 - Funções de Onda/1.6 Coeficientes de reflexão e transmissão.mp4",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Sumário de 1.6 Coeficientes de reflexão e transmissão"
             }
           },
           {
@@ -172,16 +174,26 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "84648cc13b002f34",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,10 +209,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1b188b91a0469a7f",
+  "active": "7f58a8b24fc7ccc3",
   "lastOpenFiles": [
-    "04 - Teoria/probabilidade de função de onda.md",
     "04 - Teoria/estados ligados.md",
+    "04 - Teoria/probabilidade de função de onda.md",
     "04 - Teoria/coeficientes de reflexão e transmissão.md",
     "06 - Aulas/Mecânica Quântica/1 - Funções de Onda/1.6 Coeficientes de reflexão e transmissão.mp4",
     "04 - Teoria/solução do poço infinito.md",
